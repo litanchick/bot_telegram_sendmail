@@ -46,7 +46,7 @@ def create_message(chat, update_id, username, text):
     message_info = (
             f'Поступило обращение от НКО в чате "{chat}". \n'
             f'Обновление № {update_id}: пользователь {username} написал: \n'
-            f'{text}.'
+            f'\n{text}.\n'
         )
     return message_info
 

@@ -2,3 +2,4 @@
 /venv
 constans.py
 database_help.db
+__pycache__
