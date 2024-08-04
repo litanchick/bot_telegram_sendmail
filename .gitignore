@@ -1,0 +1,4 @@
+.env
+/venv
+constans.py
+database_help.db
